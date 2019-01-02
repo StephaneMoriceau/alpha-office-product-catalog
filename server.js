@@ -155,6 +155,6 @@ app.get('/product/:id', function(req, res) {
 });
 
 app.listen(PORT, function() {
-	console.log('AlphaOffice listening on port ' + PORT);
+	console.log('AlphaOffice for istio listening on port ' + PORT);
 
 });
